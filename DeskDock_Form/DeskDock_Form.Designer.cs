@@ -43,13 +43,13 @@
             this.Notebook.Size = new System.Drawing.Size(136, 142);
             this.Notebook.TabIndex = 0;
             this.Notebook.UseVisualStyleBackColor = false;
+            this.Notebook.Click += new System.EventHandler(this.Notebook_Click);
             // 
             // DeskDock
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 142);
-            this.ControlBox = false;
             this.Controls.Add(this.Notebook);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "DeskDock";

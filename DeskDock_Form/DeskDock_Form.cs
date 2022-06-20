@@ -18,5 +18,11 @@ namespace DeskDock_Form
 
             this.Location = new Point(startX, startY);
         }
+
+        private void Notebook_Click(object sender, EventArgs e)
+        {
+            MusicPlayer mp = new MusicPlayer();
+            mp.Clicked();
+        }
     }
 }

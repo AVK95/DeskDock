@@ -63,6 +63,16 @@ namespace DeskDock_Form.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap MusicPlayer {
+            get {
+                object obj = ResourceManager.GetObject("MusicPlayer", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Notebook {
             get {
                 object obj = ResourceManager.GetObject("Notebook", resourceCulture);
