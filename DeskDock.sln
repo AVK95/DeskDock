@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskDock_Form", "DeskDock_Form\DeskDock_Form.csproj", "{10B6C0FA-4E3B-4807-BE78-FF2E16648C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B6C0FA-4E3B-4807-BE78-FF2E16648C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B6C0FA-4E3B-4807-BE78-FF2E16648C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B6C0FA-4E3B-4807-BE78-FF2E16648C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B6C0FA-4E3B-4807-BE78-FF2E16648C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B759BD-27E3-4DA2-BA7D-DBC0A32105EC}
+	EndGlobalSection
+EndGlobal
